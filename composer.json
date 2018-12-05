@@ -18,5 +18,12 @@
         "classmap": [
             "src/Syscover/Rgpd"
         ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Syscover\\Rgpd\\RgpdServiceProvider"
+            ]
+        }
     }
 }
