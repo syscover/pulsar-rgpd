@@ -17,7 +17,7 @@
             
             <div>
                 <h3>{!! __('rgpd-privacy_policy.privacy_1') !!}</h3>
-                <p>{!! __('rgpd-privacy_policy.privacy_1_1') !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_1_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
                 <p>{!! __('rgpd-privacy_policy.privacy_1_2') !!}</p>
 
                 <h3>{!! __('rgpd-privacy_policy.privacy_2') !!}</h3>
