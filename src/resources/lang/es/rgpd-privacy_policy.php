@@ -39,36 +39,49 @@ return [
     // 1
     'privacy_1'                         => '1. Nuestro compromiso con la privacidad de los clientes',
     'privacy_1_1'                       => 'En :trademark, estamos decididos a proteger y respetar tu privacidad. En este documento explicamos por qué recopilamos los datos de nuestros clientes y cómo los tratamos. Por favor, léelo con atención para conocer nuestra postura, nuestro modo de actuar y nuestra manera de tratar estos datos. Toda la información que nos proporcionas es confidencial, y solo se revelará en los casos contemplados en este documento.',
-    'privacy_1_2'                       => 'Al visitar nuestra página web «<a href="https://xfeat.com">www.xfeat.com</a>» (en adelante, el «Sitio Web»), utilizar sus servicios y/o adquirir los productos allí ofertados desde cualesquiera de tus dispositivos electrónicos (ordenador, tableta, teléfono, etc.), nos autorizas a que utilicemos esta información personal.',
+    'privacy_1_2'                       => 'Al visitar nuestra página web «:website_url» (en adelante, el «Sitio Web»), utilizar sus servicios y/o adquirir los productos allí ofertados desde cualesquiera de tus dispositivos electrónicos (ordenador, tableta, teléfono, etc.), nos autorizas a que utilicemos esta información personal.',
+
+    // 2
     'privacy_2'                         => '2. ¿Quiénes son los responsables del tratamiento de tus datos?',
-    'privacy_2_1'                       => 'A efectos de las leyes sobre privacidad, THE XFEAT CREW S.L. (en adelante «<strong>XFeat<sup>®</sup></strong>») es la entidad responsable de recopilar esta información. Si tienes alguna duda sobre esta política o sobre la privacidad de tus datos, puedes ponerte en contacto con <strong>XFeat<sup>®</sup></strong> a través de nuestro Servicio de Atención al Cliente en la sección «Contáctanos» del Sitio Web.',
-    'privacy_2_2'                       => 'En <strong>XFeat<sup>®</sup></strong> tratamos tus datos de acuerdo con lo dispuesto en la ley y las normas aplicables. Te garantizamos que recopilamos esta información dentro de la legalidad y la mantenemos a buen recaudo',
-    'privacy_3'                         => '3. Formas de registro en XFeat<sup>®</sup>',
+    'privacy_2_1'                       => 'A efectos de las leyes sobre privacidad, :company (en adelante «:trademark») es la entidad responsable de recopilar esta información. Si tienes alguna duda sobre esta política o sobre la privacidad de tus datos, puedes ponerte en contacto con :trademark a través de nuestro Servicio de Atención al Cliente en la sección «Contacto» del Sitio Web.',
+    'privacy_2_2'                       => 'En :trademark tratamos tus datos de acuerdo con lo dispuesto en la ley y las normas aplicables. Te garantizamos que recopilamos esta información dentro de la legalidad y la mantenemos a buen recaudo',
+
+    // 3
+    'privacy_3'                         => '3. Formas de registro',
     'privacy_3_1'                       => 'Es indispensable que seas mayor de 18 años de edad para acceder a cualquiera de las formas de registro presentes en el sitio Web.',
-    'privacy_3_2'                       => 'Para adquirir cualquiera de los productos ofrecidos en el Sitio Web es necesario crear una cuenta con tus datos a través del formulario disponible al formalizar la compra o a través de la sección «<a href=":link">Mi Cuenta</a>» del Sitio Web. También requeriremos de tus datos en el Sitio Web si decides: formar parte de nuestra comunidad <strong>XFeaters<sup>®</sup></strong>, que te avisemos sobre la disponibilidad de alguno de nuestros productos fuera de stock, suscribirte a nuestro newsletter, o bien, hacernos alguna consulta a través de nuestro Servicio de Atención al Cliente en la sección «Contáctanos» del Sitio Web.',
-    'privacy_3_3'                       => 'Al registrarte en el Sitio Web nos autorizas a que utilicemos esta información personal que decides compartir con nosotros de conformidad con las finalidades que más adelante te indicamos. Por tanto, esta Política de Privacidad es aplicable al registro en XFeat<sup>®</sup>. Si tu cuenta permanece inactiva durante un período de 2 años, nos reservamos el derecho de desactivarla.',
+    'privacy_3_2'                       => 'Para adquirir cualquiera de los productos ofrecidos en el Sitio Web es necesario crear una cuenta con tus datos a través del formulario disponible al formalizar la compra o a través de la sección «Mi Cuenta» del Sitio Web. También requeriremos de tus datos en el Sitio Web si decides: que te avisemos sobre la disponibilidad de alguno de nuestros productos fuera de stock, suscribirte a nuestro newsletter, o bien, hacernos alguna consulta a través de nuestro Servicio de Atención al Cliente en la sección «Contacto» del Sitio Web.',
+    'privacy_3_3'                       => 'Al registrarte en el Sitio Web nos autorizas a que utilicemos esta información personal que decides compartir con nosotros de conformidad con las finalidades que más adelante te indicamos. Por tanto, esta Política de Privacidad es aplicable al registro en :trademark. Si tu cuenta permanece inactiva durante un período de 2 años, nos reservamos el derecho de desactivarla.',
+
+    // 3-4
     'privacy_3_4'                       => '3.1 Crear una cuenta a través del proceso de compra',
     'privacy_3_4_1'                     => 'Para llevar a cabo la compra de un producto en el Sitio Web, además de ser mayor de 18 años de edad y facilitarnos aquellos datos personales necesarios para procesar tu pedido, tales como: tu nombre y apellidos, tu correo electrónico, un domicilio de entrega y tus datos de pago, es indispensable crear una cuenta con una identificación de usuario (tu correo electrónico) y una contraseña.',
-    'privacy_3_4_2'                     => 'Dicha cuenta te permitirá conocer el estado de tus pedidos: una vez realizada dicha compra (y transcurrido un tiempo prudencial de hasta 24 horas para el procesamiento de tu pedido), podrás iniciar sesión en «<a href=":link">Mi Cuenta</a>», entrar en la pestaña «Pedidos» y verificar en la columna de «Seguimiento» el estado de tu pedido.',
+    'privacy_3_4_2'                     => 'Dicha cuenta te permitirá conocer el estado de tus pedidos: una vez realizada dicha compra (y transcurrido un tiempo prudencial de hasta 24 horas para el procesamiento de tu pedido), podrás iniciar sesión en «Mi Cuenta», entrar en la pestaña «Pedidos» y verificar en la columna de «Seguimiento» el estado de tu pedido.',
+
+    // 3-5
     'privacy_3_5'                       => '3.2 Crear una cuenta a través de la sección «Mi Cuenta»',
-    'privacy_3_5_1'                     => 'También puedes registrarte en <strong>XFeat<sup>®</sup></strong> creando una cuenta con tu nombre y apellidos, una identificación de usuario (tu correo electrónico) y una contraseña a través de la sección «<a href=":link">Mi Cuenta</a>» del Sitio Web. Al registrarte a través de esta vía podrás:',
+    'privacy_3_5_1'                     => 'También puedes registrarte en :trademark creando una cuenta con tu nombre y apellidos, una identificación de usuario (tu correo electrónico) y una contraseña a través de la sección «Mi Cuenta» del Sitio Web. Al registrarte a través de esta vía podrás:',
     'privacy_3_5_2'                     => 'Configurar varias direcciones de envío y facturación para adquirir nuestros productos de una manera más rápida, cómoda y sencilla en el momento del pago.',
     'privacy_3_5_3'                     => 'Verificar en todo momento el estado de tus pedidos, a través la columna de «Seguimiento» que se encuentra en la pestaña de «Pedidos».',
-    'privacy_3_5_4'                     => 'Compartir con nosotros cualquier otra información relacionada contigo o con tus aficiones deportivas; información que nos permitirá hacerte un trato más personalizado en el futuro de acuerdo a tus intereses.',
-    'privacy_3_5_5'                     => 'Formar parte de la Comunidad <strong>XFeaters<sup>®</sup></strong> y disfrutar de nuestras ofertas y promociones para sus socios, si decides completar al 100% y de forma correcta tu perfil y aceptar el envío de comunicaciones comerciales por parte de <strong>XFeat<sup>®</sup></strong>.',
-    'privacy_3_6'                       => '3.3 Formar parte de la Comunidad XFeaters<sup>®</sup>',
-    'privacy_3_6_1'                     => '<strong>XFeaters<sup>®</sup></strong> es nuestra Comunidad con ofertas y promociones exclusivas para sus socios, abierto a todas aquellas personas mayores de 18 años. Para formar parte de ella es necesario que:',
-    'privacy_3_6_2'                     => '«Completes al 100% y de forma correcta tu perfil» dentro de la sección «<a href=":link">Mi Cuenta</a>» del Sitio Web, y',
-    'privacy_3_6_3'                     => '«Aceptes» el envío de comunicaciones comerciales por parte de <strong>XFeat<sup>®</sup></strong>.',
-    'privacy_3_6_4'                     => 'Puedes unirte a nuestra Comunidad XFeaters<sup>®</sup> completando tu perfil «<a href=":link">Aquí</a>».',
-    'privacy_3_7'                       => '3.4 Registro para avisarte sobre la disponibilidad de nuestros productos',
-    'privacy_3_7_1'                     => 'Todos los productos del Sitio Web están sujetos a producciones limitadas, por lo que, es posible que puedan producirse roturas de stock en algunas de sus tallas, tamaños o colores. Para ello, hemos habilitado el servicio «Avísame Cuando esté Disponible» que se encontrará indicado a modo de botón en la propia sección del producto cuya talla, tamaño o color se encuentre fuera de stock. Deberás hacer clic en el mismo y registrarte en este servicio con tu nombre y tu correo electrónico si deseas que te avisemos con una notificación cuando dicho producto vuelva a estar disponible.',
-    'privacy_3_7_2'                     => 'Si el producto ya se encuentra disponible en la talla, tamaño o color seleccionado, te mostraremos el botón «Añadir», con el que podrás añadir dicho artículo al carrito y proceder a formalizar la compra.',
-    'privacy_3_8'                       => '3.5 Registro para subscribirte a nuestro «Newsletter»',
-    'privacy_3_8_1'                     => 'Si deseas que te mantengamos informado sobre noticias de interés y novedades de nuestras colecciones, productos y servicios, puedes suscribirte en nuestro Newsletter, registrándote con tu nombre y tu correo electrónico a través de la sección «Newsletter» del Sitio Web.',
-    'privacy_3_9'                       => '3.6 Registro para cualquier solicitud, duda o consulta a través de la sección «Contáctanos»',
-    'privacy_3_9_1'                     => 'Puedes ponerte en contacto nosotros en todo momento para cualquier solicitud, duda o consulta relacionada con <strong>XFeat<sup>®</sup></strong> o con nuestros productos y servicios a través del formulario disponible en la sección «<a href=":link">Contáctanos</a>» del Sitio Web. Para ello, deberás registrarte indicándonos tu nombre y apellidos, tu correo electrónico, el motivo de tu solicitud, duda o consulta y cualquier otra información necesaria para garantizar su correcta gestión y procesamiento.',
+    'privacy_3_5_4'                     => 'Compartir con nosotros cualquier otra información relacionada contigo o con tus aficiones; información que nos permitirá hacerte un trato más personalizado en el futuro de acuerdo a tus intereses.',
+    'privacy_3_5_5'                     => 'Formar parte de nuestros clientes y disfrutar de nuestras ofertas y promociones para nuestros socios, si decides completar al 100% y de forma correcta tu perfil y aceptar el envío de comunicaciones comerciales por parte de :trademark.',
+
+    // 3-6
+    'privacy_3_6'                       => '3.4 Registro para avisarte sobre la disponibilidad de nuestros productos',
+    'privacy_3_6_1'                     => 'Todos los productos del Sitio Web están sujetos a producciones limitadas, por lo que, es posible que puedan producirse roturas de stock. Para ello, hemos habilitado el servicio «Avísame Cuando esté Disponible» que se encontrará indicado a modo de botón en la propia sección del producto que se encuentre fuera de stock. Deberás hacer clic en el mismo y registrarte en este servicio con tu nombre y tu correo electrónico si deseas que te avisemos con una notificación cuando dicho producto vuelva a estar disponible.',
+    'privacy_3_6_2'                     => 'Si el producto ya se encuentra disponible, te mostraremos el botón «Añadir», con el que podrás añadir dicho artículo al carrito y proceder a formalizar la compra.',
+
+    // 3-7
+    'privacy_3_7'                       => '3.5 Registro para subscribirte a nuestro «Newsletter»',
+    'privacy_3_7_1'                     => 'Si deseas que te mantengamos informado sobre noticias de interés y novedades de nuestros productos y servicios, puedes suscribirte en nuestro Newsletter, registrándote con tu nombre y tu correo electrónico a través de la sección «Newsletter» del Sitio Web.',
+
+    // 3-8
+    'privacy_3_8'                       => '3.6 Registro para cualquier solicitud, duda o consulta a través de la sección «Contacto»',
+    'privacy_3_8_1'                     => 'Puedes ponerte en contacto nosotros en todo momento para cualquier solicitud, duda o consulta relacionada con :trademark o con nuestros productos y servicios a través del formulario disponible en la sección «Contacto» del Sitio Web. Para ello, deberás registrarte indicándonos tu nombre y apellidos, tu correo electrónico, el motivo de tu solicitud, duda o consulta y cualquier otra información necesaria para garantizar su correcta gestión y procesamiento.',
+
+    // 4
     'privacy_4'                         => '4. Tus datos personales',
+
+    // 4-1
     'privacy_4_1'                       => '4.1. ¿Qué datos personales recogemos?',
     'privacy_4_1_1'                     => 'Los datos personales que nos proporcionas son:',
     'privacy_4_1_2'                     => 'Tu nombre y apellidos.',

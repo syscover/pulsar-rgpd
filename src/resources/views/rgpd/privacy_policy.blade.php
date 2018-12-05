@@ -18,47 +18,39 @@
             <div>
                 <h3>{!! __('rgpd-privacy_policy.privacy_1') !!}</h3>
                 <p>{!! __('rgpd-privacy_policy.privacy_1_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
-                <p>{!! __('rgpd-privacy_policy.privacy_1_2') !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_1_2', ['website_url' => config('pulsar-rgpd.website_url')]) !!}</p>
 
                 <h3>{!! __('rgpd-privacy_policy.privacy_2') !!}</h3>
-                <p>{!! __('rgpd-privacy_policy.privacy_2_1') !!}</p>
-                <p>{!! __('rgpd-privacy_policy.privacy_2_2') !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_2_1', ['trademark' => config('pulsar-rgpd.trademark'), 'company' => config('pulsar-rgpd.company')]) !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_2_2', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
 
                 <h3>{!! __('rgpd-privacy_policy.privacy_3') !!}</h3>
                 <p>{!! __('rgpd-privacy_policy.privacy_3_1') !!}</p>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_2', ['link' => nt_route('rgpd-privacy_policy.account-' . user_lang())]) !!}</p>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_3') !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_3_2') !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_3_3', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
 
                 <h5>{!! __('rgpd-privacy_policy.privacy_3_4') !!}</h5>
                 <p>{!! __('rgpd-privacy_policy.privacy_3_4_1') !!}</p>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_4_2', ['link' => nt_route('rgpd-privacy_policy.account-' . user_lang())]) !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_3_4_2') !!}</p>
 
                 <h5>{!! __('rgpd-privacy_policy.privacy_3_5') !!}</h5>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_5_1', ['link' => nt_route('rgpd-privacy_policy.login-' . user_lang())]) !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_3_5_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
                 <ul>
                     <li><p>{!! __('rgpd-privacy_policy.privacy_3_5_2') !!}</p></li>
                     <li><p>{!! __('rgpd-privacy_policy.privacy_3_5_3') !!}</p></li>
                     <li><p>{!! __('rgpd-privacy_policy.privacy_3_5_4') !!}</p></li>
-                    <li><p>{!! __('rgpd-privacy_policy.privacy_3_5_5') !!}</p></li>
+                    <li><p>{!! __('rgpd-privacy_policy.privacy_3_5_5', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p></li>
                 </ul>
 
                 <h5>{!! __('rgpd-privacy_policy.privacy_3_6') !!}</h5>
                 <p>{!! __('rgpd-privacy_policy.privacy_3_6_1') !!}</p>
-                <ul>
-                    <li><p>{!! __('rgpd-privacy_policy.privacy_3_6_2', ['link' => nt_route('rgpd-privacy_policy.account-' . user_lang())]) !!}</p></li>
-                    <li><p>{!! __('rgpd-privacy_policy.privacy_3_6_3') !!}</p></li>
-                </ul>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_6_4', ['link' => nt_route('rgpd-privacy_policy.login-' . user_lang())]) !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_3_6_2') !!}</p>
 
                 <h5>{!! __('rgpd-privacy_policy.privacy_3_7') !!}</h5>
                 <p>{!! __('rgpd-privacy_policy.privacy_3_7_1') !!}</p>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_7_2') !!}</p>
 
                 <h5>{!! __('rgpd-privacy_policy.privacy_3_8') !!}</h5>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_8_1', ['link' => '#']) !!}</p>
-
-                <h5>{!! __('rgpd-privacy_policy.privacy_3_9') !!}</h5>
-                <p>{!! __('rgpd-privacy_policy.privacy_3_9_1', ['link' => nt_route('rgpd-privacy_policy.contact-' . user_lang())]) !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_3_8_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
 
                 <h3>{!! __('rgpd-privacy_policy.privacy_4') !!}</h3>
                 <h5>{!! __('rgpd-privacy_policy.privacy_4_1') !!}</h5>
