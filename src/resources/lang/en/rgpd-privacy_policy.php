@@ -39,11 +39,11 @@ return [
     // 1
     'privacy_1'                         => '1. Our commitment to customer privacy',
     'privacy_1_1'                       => 'In :trademark, we are determined to protect and respect your privacy. In this document, we explain why we collect our customers\' data and how we treat them. Please, read it carefully to know our position, our way of acting and our way of dealing with this data. All the information you provide is confidential, and will only be disclosed in the cases contemplated in this document.',
-    'privacy_1_2'                       => 'Al visitar nuestra página web «:website_url» (en adelante, el «Sitio Web»), utilizar sus servicios y/o adquirir los productos allí ofertados desde cualesquiera de tus dispositivos electrónicos (ordenador, tableta, teléfono, etc.), nos autorizas a que utilicemos esta información personal.',
+    'privacy_1_2'                       => 'By visiting our website «:website_url» (hereinafter, the «Website»), using your services and/or purchasing the products offered there from any of your electronic devices (computer, tablet, phone, etc.), you authorize us to use this personal information.',
 
     // 2
-    'privacy_2'                         => '2. ¿Quiénes son los responsables del tratamiento de tus datos?',
-    'privacy_2_1'                       => 'A efectos de las leyes sobre privacidad, :company (en adelante «:trademark») es la entidad responsable de recopilar esta información. Si tienes alguna duda sobre esta política o sobre la privacidad de tus datos, puedes ponerte en contacto con :trademark a través de nuestro Servicio de Atención al Cliente en la sección «Contacto» del Sitio Web.',
+    'privacy_2'                         => '2. Who are responsible for the treatment of your data?',
+    'privacy_2_1'                       => 'For the purposes of privacy laws, :company (hereinafter «:trademark») is the entity responsible for collecting this information. If you have any questions about this policy or about the privacy of your data, you can contact :trademark through our Customer Service in the "Contact" section of the Website.',
     'privacy_2_2'                       => 'En :trademark tratamos tus datos de acuerdo con lo dispuesto en la ley y las normas aplicables. Te garantizamos que recopilamos esta información dentro de la legalidad y la mantenemos a buen recaudo',
 
     // 3
