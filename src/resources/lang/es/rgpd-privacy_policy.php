@@ -2,7 +2,7 @@
 
 /*
 |-------------------------------------------------------------------------------------------------------------
-| Idioma: English
+| Idioma: Español
 |
 | ***************************************
 | ***** Instrucciones de traducción *****
@@ -34,7 +34,7 @@
 */
 
 return [
-    'privacy_header'                    => 'POLÍTICA DE PRIVACIDAD DE XFEAT<sup>®</sup>',
+    'privacy_header'                    => 'Política de privacidad',
 
     // 1
     'privacy_1'                         => '1. Nuestro compromiso con la privacidad de los clientes',
