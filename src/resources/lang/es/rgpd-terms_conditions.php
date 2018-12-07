@@ -35,7 +35,9 @@
 
 return [
     'conditions_header'                 => 'Términos y condiciones',
-    'conditions_1'                      => 'DATOS IDENTIFICATIVOS DEL TITULAR DE LA WEB',
+
+    // 1
+    'conditions_1'                      => 'Datos identificativos del titular de la web',
     'conditions_1_1'                    => 'En cumplimiento con el deber de información que establece la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico, te informamos que la presente web «<a href=":link">www.xfeat.com</a>» (en adelante, el «Sitio Web») es titularidad de la compañía:',
     'conditions_1_2'                    => 'THE XFEAT CREW S.L.<br>Calle Narváez 69, 5A<br>28009 Madrid<br>Madrid.<br>DATOS REGISTRALES:<br>C.I.F. B88043740<br>Registro Mercantil de Madrid<br>TOMO: 37370 FOLIO: 24 HOJA: M 666299',
     'conditions_1_3'                    => 'Para cualquier información adicional, puedes ponerte en contacto con nosotros a través del siguiente «<a href=":link">Formulario</a>».',

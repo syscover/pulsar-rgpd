@@ -59,11 +59,11 @@ return [
 
     // 3-5
     'privacy_3_5'                       => '3.2 Create an account through the «My Account» section',
-    'privacy_3_5_1'                     => 'También puedes registrarte en :trademark creando una cuenta con tu nombre y apellidos, una identificación de usuario (tu correo electrónico) y una contraseña a través de la sección «Mi Cuenta» del Sitio Web. Al registrarte a través de esta vía podrás:',
-    'privacy_3_5_2'                     => 'Configurar varias direcciones de envío y facturación para adquirir nuestros productos de una manera más rápida, cómoda y sencilla en el momento del pago.',
-    'privacy_3_5_3'                     => 'Verificar en todo momento el estado de tus pedidos, a través la columna de «Seguimiento» que se encuentra en la pestaña de «Pedidos».',
-    'privacy_3_5_4'                     => 'Compartir con nosotros cualquier otra información relacionada contigo o con tus aficiones; información que nos permitirá hacerte un trato más personalizado en el futuro de acuerdo a tus intereses.',
-    'privacy_3_5_5'                     => 'Formar parte de nuestros clientes y disfrutar de nuestras ofertas y promociones para nuestros socios, si decides completar al 100% y de forma correcta tu perfil y aceptar el envío de comunicaciones comerciales por parte de :trademark.',
+    'privacy_3_5_1'                     => 'You can also register a :trademark by creating an account with your first and last name, a user ID (your email address) and a password through the «My Account» section of the Website. By registering through this way you can:',
+    'privacy_3_5_2'                     => 'Set up several shipping and billing addresses to acquire our products in a faster, more convenient and easier way at the time of payment.',
+    'privacy_3_5_3'                     => 'Verify at all times the status of your orders, through the «Monitoring» column found in the «Orders» tab.',
+    'privacy_3_5_4'                     => 'Share with us any other information related to you or your hobbies; information that will allow us to make a more personalized treatment in the future according to your interests.',
+    'privacy_3_5_5'                     => 'Be part of our clients and enjoy our offers and promotions for our partners, if you decide to complete 100% and correctly your profile and accept the sending of commercial communications by :trademark.',
 
     // 3-6
     'privacy_3_6'                       => '3.4 Registro para avisarte sobre la disponibilidad de nuestros productos',
