@@ -153,7 +153,7 @@
                 <p>{!! __('rgpd-privacy_policy.privacy_11_2', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
 
                 <h3>{!! __('rgpd-privacy_policy.privacy_12', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</h3>
-                <p>{!! __('rgpd-privacy_policy.privacy_12_1') !!}</p>
+                <p>{!! __('rgpd-privacy_policy.privacy_12_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
 
                 <h3>{!! __('rgpd-privacy_policy.privacy_13') !!}</h3>
                 <p>{!! __('rgpd-privacy_policy.privacy_13_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>

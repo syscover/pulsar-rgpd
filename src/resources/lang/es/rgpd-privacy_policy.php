@@ -44,7 +44,7 @@ return [
     // 2
     'privacy_2'                         => '2. ¿Quiénes son los responsables del tratamiento de tus datos?',
     'privacy_2_1'                       => 'A efectos de las leyes sobre privacidad, :company (en adelante «:trademark») es la entidad responsable de recopilar esta información. Si tienes alguna duda sobre esta política o sobre la privacidad de tus datos, puedes ponerte en contacto con :trademark a través de nuestro Servicio de Atención al Cliente en la sección «Contacto» del Sitio Web.',
-    'privacy_2_2'                       => 'En :trademark tratamos tus datos de acuerdo con lo dispuesto en la ley y las normas aplicables. Te garantizamos que recopilamos esta información dentro de la legalidad y la mantenemos a buen recaudo',
+    'privacy_2_2'                       => 'En :trademark tratamos tus datos de acuerdo con lo dispuesto en la ley y las normas aplicables. Te garantizamos que recopilamos esta información dentro de la legalidad y la mantenemos a buen recaudo.',
 
     // 3
     'privacy_3'                         => '3. Formas de registro',

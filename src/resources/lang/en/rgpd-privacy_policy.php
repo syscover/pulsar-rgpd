@@ -44,21 +44,21 @@ return [
     // 2
     'privacy_2'                         => '2. Who are responsible for the treatment of your data?',
     'privacy_2_1'                       => 'For the purposes of privacy laws, :company (hereinafter «:trademark») is the entity responsible for collecting this information. If you have any questions about this policy or about the privacy of your data, you can contact :trademark through our Customer Service in the "Contact" section of the Website.',
-    'privacy_2_2'                       => 'En :trademark tratamos tus datos de acuerdo con lo dispuesto en la ley y las normas aplicables. Te garantizamos que recopilamos esta información dentro de la legalidad y la mantenemos a buen recaudo',
+    'privacy_2_2'                       => 'In :trademark we treat your data in accordance with the provisions of the law and the applicable regulations. We guarantee that we collect this information within the law and keep it safe.',
 
     // 3
-    'privacy_3'                         => '3. Formas de registro',
-    'privacy_3_1'                       => 'Es indispensable que seas mayor de 18 años de edad para acceder a cualquiera de las formas de registro presentes en el sitio Web.',
-    'privacy_3_2'                       => 'Para adquirir cualquiera de los productos ofrecidos en el Sitio Web es necesario crear una cuenta con tus datos a través del formulario disponible al formalizar la compra o a través de la sección «Mi Cuenta» del Sitio Web. También requeriremos de tus datos en el Sitio Web si decides: que te avisemos sobre la disponibilidad de alguno de nuestros productos fuera de stock, suscribirte a nuestro newsletter, o bien, hacernos alguna consulta a través de nuestro Servicio de Atención al Cliente en la sección «Contacto» del Sitio Web.',
-    'privacy_3_3'                       => 'Al registrarte en el Sitio Web nos autorizas a que utilicemos esta información personal que decides compartir con nosotros de conformidad con las finalidades que más adelante te indicamos. Por tanto, esta Política de Privacidad es aplicable al registro en :trademark. Si tu cuenta permanece inactiva durante un período de 2 años, nos reservamos el derecho de desactivarla.',
+    'privacy_3'                         => '3. Registration forms',
+    'privacy_3_1'                       => 'It is essential that you are over 18 years of age to access any of the forms of registration present on the website.',
+    'privacy_3_2'                       => 'In order to acquire any of the products offered on the Website, it is necessary to create an account with your information through the form available when the purchase is made or through the «My Account» section of the Website. We will also require your data on the Website if you decide: that we notify you about the availability of any of our products out of stock, subscribe to our newsletter, or ask us any questions through our Customer Service in the section «Contact» of the Website.',
+    'privacy_3_3'                       => 'By registering on the Website you authorize us to use this personal information that you decide to share with us in accordance with the purposes indicated below. Therefore, this Privacy Policy is applicable to registration in :trademark. If your account remains inactive for a period of 2 years, we reserve the right to deactivate it.',
 
     // 3-4
-    'privacy_3_4'                       => '3.1 Crear una cuenta a través del proceso de compra',
-    'privacy_3_4_1'                     => 'Para llevar a cabo la compra de un producto en el Sitio Web, además de ser mayor de 18 años de edad y facilitarnos aquellos datos personales necesarios para procesar tu pedido, tales como: tu nombre y apellidos, tu correo electrónico, un domicilio de entrega y tus datos de pago, es indispensable crear una cuenta con una identificación de usuario (tu correo electrónico) y una contraseña.',
-    'privacy_3_4_2'                     => 'Dicha cuenta te permitirá conocer el estado de tus pedidos: una vez realizada dicha compra (y transcurrido un tiempo prudencial de hasta 24 horas para el procesamiento de tu pedido), podrás iniciar sesión en «Mi Cuenta», entrar en la pestaña «Pedidos» y verificar en la columna de «Seguimiento» el estado de tu pedido.',
+    'privacy_3_4'                       => '3.1 Create an account through the purchase process',
+    'privacy_3_4_1'                     => 'To carry out the purchase of a product on the Website, in addition to being over 18 years old and provide us with personal information necessary to process your order, such as: your name and surname, your email, a delivery address and your payment information, it is essential to create an account with a user identification (your email address) and a password.',
+    'privacy_3_4_2'                     => 'This account will allow you to know the status of your orders: once said purchase (and after a reasonable time of up to 24 hours for the processing of your order), you can log in «My Account», enter the tab «Orders» and check the status of your order in the "Follow-up" column.',
 
     // 3-5
-    'privacy_3_5'                       => '3.2 Crear una cuenta a través de la sección «Mi Cuenta»',
+    'privacy_3_5'                       => '3.2 Create an account through the «My Account» section',
     'privacy_3_5_1'                     => 'También puedes registrarte en :trademark creando una cuenta con tu nombre y apellidos, una identificación de usuario (tu correo electrónico) y una contraseña a través de la sección «Mi Cuenta» del Sitio Web. Al registrarte a través de esta vía podrás:',
     'privacy_3_5_2'                     => 'Configurar varias direcciones de envío y facturación para adquirir nuestros productos de una manera más rápida, cómoda y sencilla en el momento del pago.',
     'privacy_3_5_3'                     => 'Verificar en todo momento el estado de tus pedidos, a través la columna de «Seguimiento» que se encuentra en la pestaña de «Pedidos».',
