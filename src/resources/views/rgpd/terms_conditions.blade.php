@@ -17,49 +17,49 @@
 
                 <div>
                     <h3>{!! __('web.conditions_1') !!}</h3>
-                    <p>{!! __('web.conditions_1_1', ['link' => nt_route('web.home-' . user_lang())]) !!}</p>
-                    <p>{!! __('web.conditions_1_2') !!}</p>
-                    <p>{!! __('web.conditions_1_3', ['link' => nt_route('web.contact-' . user_lang())]) !!}</p>
+                    <p>{!! __('web.conditions_1_1', ['website_url' => config('pulsar-rgpd.website_url')]) !!}</p>
+                    <p>{!! __('web.conditions_1_2', ['company' => config('pulsar-rgpd.company'), 'address' => config('pulsar-rgpd.address'), 'zip' => config('pulsar-rgpd.zip'), 'locality' => config('pulsar-rgpd.locality'), 'state' => config('pulsar-rgpd.state'), 'tin' => config('pulsar-rgpd.tin'), 'commercial_registry' => config('pulsar-rgpd.commercial_registry'), 'registry_data' => config('pulsar-rgpd.registry_data')]) !!}</p>
+                    <p>{!! __('web.conditions_1_3') !!}</p>
 
                     <h3>{!! __('web.conditions_2') !!}</h3>
-                    <p>{!! __('web.conditions_2_1') !!}</p>
-                    <p>{!! __('web.conditions_2_2', ['link1' => nt_route('web.privacy_policies-' . user_lang()), 'link2' =>  nt_route('web.cookies-' . user_lang()), 'link3' =>  nt_route('web.terms_conditions-' . user_lang())]) !!}</p>
-                    <p>{!! __('web.conditions_2_3', ['link1' => nt_route('web.privacy_policies-' . user_lang()), 'link2' =>  nt_route('web.cookies-' . user_lang()), 'link3' =>  nt_route('web.terms_conditions-' . user_lang())]) !!}</p>
-                    <p>{!! __('web.conditions_2_4') !!}</p>
+                    <p>{!! __('web.conditions_2_1', ['company' => config('pulsar-rgpd.company'), 'trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
+                    <p>{!! __('web.conditions_2_2') !!}</p>
+                    <p>{!! __('web.conditions_2_3') !!}</p>
+                    <p>{!! __('web.conditions_2_4', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
 
                     <h3>{!! __('web.conditions_3') !!}</h3>
                     <p>{!! __('web.conditions_3_1') !!}</p>
-                    <p>{!! __('web.conditions_3_2', ['link' => nt_route('web.account-' . user_lang())]) !!}</p>
-                    <p>{!! __('web.conditions_3_3') !!}</p>
-                    <p>{!! __('web.conditions_3_4', ['link' => nt_route('web.privacy_policies-' . user_lang())]) !!}</p>
+                    <p>{!! __('web.conditions_3_2') !!}</p>
+                    <p>{!! __('web.conditions_3_3', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
+                    <p>{!! __('web.conditions_3_4') !!}</p>
 
                     <h3>{!! __('web.conditions_4') !!}</h3>
-                    <p>{!! __('web.conditions_4_1') !!}</p>
+                    <p>{!! __('web.conditions_4_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
                     <p>{!! __('web.conditions_4_2') !!}</p>
-                    <p>{!! __('web.conditions_4_3') !!}</p>
+                    <p>{!! __('web.conditions_4_3', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
                     <p>{!! __('web.conditions_4_4') !!}</p>
 
                     <h3>{!! __('web.conditions_5') !!}</h3>
                     <p>{!! __('web.conditions_5_1') !!}</p>
                     <p>{!! __('web.conditions_5_2') !!}</p>
                     <p>{!! __('web.conditions_5_3') !!}</p>
-                    <p>{!! __('web.conditions_5_4') !!}</p>
+                    <p>{!! __('web.conditions_5_4', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
                     <p>{!! __('web.conditions_5_5') !!}</p>
                     <p>{!! __('web.conditions_5_6') !!}</p>
-                    <p>{!! __('web.conditions_5_7') !!}</p>
+                    <p>{!! __('web.conditions_5_7', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
 
                     <h3>{!! __('web.conditions_6') !!}</h3>
                     <ul>
                         <li><p>{!! __('web.conditions_6_1') !!}</p></li>
-                        <li><p>{!! __('web.conditions_6_2', ['link' => nt_route('web.account-' . user_lang())]) !!}</p></li>
+                        <li><p>{!! __('web.conditions_6_2', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p></li>
                     </ul>
                     <p>{!! __('web.conditions_6_3') !!}</p>
                     <ul>
-                        <li><p>{!! __('web.conditions_6_4') !!}</p></li>
+                        <li><p>{!! __('web.conditions_6_4', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p></li>
                         <li><p>{!! __('web.conditions_6_5') !!}</p></li>
                     </ul>
-                    <p>{!! __('web.conditions_6_6') !!}</p>
-                    <p>{!! __('web.conditions_6_7', ['link' => nt_route('web.contact-' . user_lang())]) !!}</p>
+                    <p>{!! __('web.conditions_6_6', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
+                    <p>{!! __('web.conditions_6_7') !!}</p>
 
                     <h3>{!! __('web.conditions_7') !!}</h3>
                     <p>{!! __('web.conditions_7_1') !!}</p>
@@ -70,7 +70,7 @@
                     <p>{!! __('web.conditions_8_1') !!}</p>
 
                     <h5>{!! __('web.conditions_8_2') !!}</h5>
-                    <p>{!! __('web.conditions_8_2_1') !!}</p>
+                    <p>{!! __('web.conditions_8_2_1', ['trademark' => config('pulsar-rgpd.trademark')]) !!}</p>
                     <p>{!! __('web.conditions_8_2_2') !!}</p>
                     <p>{!! __('web.conditions_8_2_3', ['link' => nt_route('web.contact-' . user_lang())]) !!}</p>
                     <p>{!! __('web.conditions_8_2_4') !!}</p>
